@@ -1,0 +1,3 @@
+[submodule "src/lessons/lesson"]
+	path = src/lessons/lesson
+	url = https://github.com/idogmat/lessons-ts.git
